@@ -1,4 +1,3 @@
-# Middleware
 <p align="center"><img src="https://user-images.githubusercontent.com/4587641/227535214-bc02302c-35d9-45bf-badd-f10968cedb2f.png" height="100px" /></p>
 
 Middleware is a data-driven engineering management platform that simplifies workflows for engineering teams and supports the professional growth of individual engineers. It integrates with popular tools like Github, JIRA, and calendars to provide actionable insights that help managers prioritize high-impact initiatives.
